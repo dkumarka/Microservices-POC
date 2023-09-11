@@ -1,0 +1,63 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: oauth-service-ingress
+  namespace: ingress
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/use-regex: "true"
+    nginx.ingress.kubernetes.io/rewrite-target: /$2
+spec:
+  ingressClassName: nginx
+  rules:
+    - http:
+        paths:
+          - path: /oauth-microservice(/|$)(.*)
+            pathType: Prefix
+            backend:
+              service:
+                name: oauth-microservice
+                port:
+                  number: 8083
+          - path: /service-a-one(/|$)(.*)
+            pathType: Prefix
+            backend:
+              service:
+                name: service-a-one
+                port:
+                  number: 8081
+          - path: /service-b-one(/|$)(.*)
+            pathType: Prefix
+            backend:
+              service:
+                name: service-b-one
+                port:
+                  number: 8082
+          - path: /(.*)
+            pathType: Prefix
+            backend:
+              service:
+                name: oauth-microservice
+                port:
+                  number: 8083
+---
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: oauth-service-ingress-static
+  namespace: ingress
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+    nginx.ingress.kubernetes.io/rewrite-target: /static/$2
+spec:
+  ingressClassName: nginx
+  rules:
+    - http:
+        paths:
+          - path: /static(/|$)(.*)
+            pathType: Prefix
+            backend:
+              service:
+                name: oauth-microservice
+                port:
+                  number: 8083

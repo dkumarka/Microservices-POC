@@ -1,0 +1,19 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: oauth-microservice-ingress
+  namespace: ingress
+  annotations:
+    nginx.ingress.kubernetes.io/ssl-redirect: "false"
+spec:
+  ingressClassName: nginx
+  rules:
+    - http:
+        paths:
+          - path: /oauth-microservice
+            pathType: Prefix
+            backend:
+              service:
+                name: oauth-microservice
+                port:
+                  number: 8083

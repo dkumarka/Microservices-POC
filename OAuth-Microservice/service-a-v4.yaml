@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: service-a-one
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: service-a-one
+  template:
+    metadata:
+      labels:
+        app: service-a-one
+    spec:
+      containers:
+        - name: service-a-one
+          image: sriharipriya/service-a-repo:latest
+          ports:
+            - containerPort: 8081
+          env:
+            - name: TITLE
+              value: "Welcome to Service-A Home Page"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-a-one
+spec:
+  type: ClusterIP
+  ports:
+    - port: 8081
+  selector:
+    app: service-a-one

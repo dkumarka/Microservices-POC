@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: service-b-one
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: service-b-one
+  template:
+    metadata:
+      labels:
+        app: service-b-one
+    spec:
+      containers:
+        - name: service-b-one
+          image: sriharipriya/service-b-repo:latest
+          ports:
+            - containerPort: 8082
+          env:
+            - name: TITLE
+              value: "Welcome to Service-B Home Page"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: service-b-one
+spec:
+  type: ClusterIP
+  ports:
+    - port: 8082
+  selector:
+    app: service-b-one

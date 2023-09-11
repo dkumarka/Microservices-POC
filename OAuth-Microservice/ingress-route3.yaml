@@ -1,0 +1,31 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: microservices-ingress
+  namespace: ingress
+spec:
+  rules:
+    - host: example.com
+      http:
+        paths:
+          - path: /oauth
+            pathType: Prefix
+            backend:
+              service:
+                name: oauth-microservice
+                port:
+                  number: 8083
+          - path: /service-a
+            pathType: Prefix
+            backend:
+              service:
+                name: service-a-one
+                port:
+                  number: 8081
+          - path: /service-b
+            pathType: Prefix
+            backend:
+              service:
+                name: service-b-one
+                port:
+                  number: 8082

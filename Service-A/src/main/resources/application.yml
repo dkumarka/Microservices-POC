@@ -1,0 +1,40 @@
+management:
+  health:
+    circuitbreakers:
+      enabled: true
+  
+  endpoints:
+    web:
+      exposure:
+        include: health
+        
+  endpoint:
+    health:
+      show-details: always
+      
+resilience4j:
+  circuitbreaker:
+    instances:
+     EmployeeService :
+       registerHealthIndicator: true
+       eventConsumerBufferSize: 10
+       failureRateThreshold: 3
+       minimumNumberOfCalls: 5
+       automaticTransitionFromOpenToHalfOpenEnabled: true
+       waitDurationInOpenState: 15s
+       permittedNumberOfCallsInHalfOpenState: 3
+       slidingWindowSize: 10
+       slidingWindowType: COUNT_BASED
+      # ignoreExceptions: com.serviceA.exception.EmployeeNotFoundException
+#         
+#       # - org.springframework.http.HttpStatus.NOT_FOUND
+#       # - org.springframework.web.client.HttpClientErrorException
+#       recordExceptions: org.springframework.web.client.RestClientException
+#       
+       
+       
+       
+      
+      
+ 
+                       

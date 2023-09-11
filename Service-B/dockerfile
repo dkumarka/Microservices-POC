@@ -1,0 +1,4 @@
+FROM openjdk:17
+COPY target/krogerServiceB-0.0.1-SNAPSHOT.jar krogerServiceB-0.0.1-SNAPSHOT.jar
+CMD java -jar krogerServiceB-0.0.1-SNAPSHOT.jar
+EXPOSE 8082

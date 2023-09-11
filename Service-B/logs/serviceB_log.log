@@ -1,0 +1,330 @@
+2023-06-16 12:28:30 INFO  AuthFilter:40 - Token is not valid
+2023-06-16 12:39:07 INFO  AuthFilter:37 - Token is valid
+2023-06-16 12:39:10 INFO  EmployeeController:60 - Entring in getemployee() of EmployeeController
+2023-06-16 16:11:09 INFO  AuthFilter:40 - Token is not valid
+2023-06-16 16:38:21 INFO  AuthFilter:37 - Token is valid
+2023-06-16 16:38:25 INFO  EmployeeController:59 - Entring in getemployee() of EmployeeController
+2023-06-19 12:27:43 INFO  AuthFilter:37 - Token is valid
+2023-06-19 12:27:48 INFO  EmployeeController:46 - Entring in getEmployees() of EmployeeController
+2023-06-19 12:27:50 INFO  EmployeeController:51 - Existing from getEmployees() of EmployeeController
+2023-06-19 15:05:46 INFO  AuthFilter:37 - Token is valid
+2023-06-19 15:05:46 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-19 16:39:57 INFO  AuthFilter:37 - Token is valid
+2023-06-19 16:39:57 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-19 16:39:59 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-19 16:40:20 INFO  AuthFilter:40 - Token is not valid
+2023-06-19 16:40:40 INFO  AuthFilter:37 - Token is valid
+2023-06-19 16:40:40 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-19 16:40:41 INFO  EmployeeController:69 - Existing from getemployee() of EmployeeController
+2023-06-19 16:49:50 INFO  AuthFilter:37 - Token is valid
+2023-06-19 16:49:50 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-19 16:49:51 INFO  EmployeeController:69 - Existing from getemployee() of EmployeeController
+2023-06-19 16:49:57 INFO  AuthFilter:37 - Token is valid
+2023-06-19 16:49:57 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-19 16:49:58 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-20 16:20:44 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:20:44 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-20 16:20:46 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-20 16:26:55 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:26:55 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-20 16:26:57 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-20 16:28:25 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:28:25 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-20 16:28:25 INFO  EmployeeController:69 - Existing from getemployee() of EmployeeController
+2023-06-20 16:38:50 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:38:50 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-20 16:38:51 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-20 16:39:16 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:39:16 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-20 16:39:16 INFO  EmployeeController:69 - Existing from getemployee() of EmployeeController
+2023-06-20 16:39:22 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:39:22 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-20 16:39:31 INFO  AuthFilter:37 - Token is valid
+2023-06-20 16:39:31 INFO  EmployeeController:63 - Entring in getemployee() of EmployeeController
+2023-06-20 16:39:32 INFO  EmployeeController:69 - Existing from getemployee() of EmployeeController
+2023-06-21 17:05:03 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:05:03 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-21 17:05:04 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-21 17:09:26 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:09:26 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-21 17:09:27 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-21 17:17:05 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:17:11 INFO  DepartmentController:63 - Entring in getDepartments() of DepartmentController
+2023-06-21 17:17:12 INFO  DepartmentController:68 - Existing from getDepartments() of DepartmentController
+2023-06-21 17:20:25 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:20:33 INFO  EmployeeController:82 - Entring in saveEmployee() of EmployeeController
+2023-06-21 17:20:46 INFO  EmployeeController:86 - Existing from saveEmployee() of EmployeeController
+2023-06-21 17:23:53 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:23:56 INFO  EmployeeController:82 - Entring in saveEmployee() of EmployeeController
+2023-06-21 17:24:03 INFO  EmployeeController:86 - Existing from saveEmployee() of EmployeeController
+2023-06-21 17:26:17 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:26:19 INFO  EmployeeController:82 - Entring in saveEmployee() of EmployeeController
+2023-06-21 17:34:56 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:35:04 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-21 17:35:05 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-21 17:35:36 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:35:40 INFO  EmployeeController:122 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:35:47 INFO  EmployeeController:126 - Existing from updateEmployee() of EmployeeController
+2023-06-21 17:36:22 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:36:29 INFO  EmployeeController:122 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:40:32 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:40:37 INFO  EmployeeController:122 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:41:09 INFO  EmployeeController:126 - Existing from updateEmployee() of EmployeeController
+2023-06-21 17:41:41 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:41:43 INFO  EmployeeController:122 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:41:53 INFO  EmployeeController:126 - Existing from updateEmployee() of EmployeeController
+2023-06-21 17:53:43 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:53:43 INFO  EmployeeController:47 - Entring in getEmployees() of EmployeeController
+2023-06-21 17:53:44 INFO  EmployeeController:52 - Existing from getEmployees() of EmployeeController
+2023-06-21 17:54:50 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:54:53 INFO  EmployeeController:100 - Entring in deleteEmployee() of EmployeeController
+2023-06-21 17:55:27 INFO  EmployeeController:105 - Existing from deleteEmployee() of EmployeeController
+2023-06-21 17:56:03 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:56:03 INFO  EmployeeController:100 - Entring in deleteEmployee() of EmployeeController
+2023-06-21 17:57:46 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:57:46 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:57:48 INFO  EmployeeController:128 - Existing from updateEmployee() of EmployeeController
+2023-06-21 17:58:13 INFO  AuthFilter:37 - Token is valid
+2023-06-21 17:58:13 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 17:58:15 INFO  EmployeeController:128 - Existing from updateEmployee() of EmployeeController
+2023-06-21 18:03:36 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:03:36 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:09:50 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:09:50 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:11:04 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:11:04 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:12:44 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:12:44 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:13:06 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:13:06 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:13:49 INFO  AuthFilter:40 - Token is not valid
+2023-06-21 18:15:11 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:15:11 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:15:15 INFO  EmployeeController:128 - Existing from updateEmployee() of EmployeeController
+2023-06-21 18:15:57 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:15:57 INFO  EmployeeController:124 - Entring in updateEmployee() of EmployeeController
+2023-06-21 18:15:59 INFO  EmployeeController:128 - Existing from updateEmployee() of EmployeeController
+2023-06-21 18:31:11 INFO  AuthFilter:40 - Token is not valid
+2023-06-21 18:31:37 INFO  AuthFilter:37 - Token is valid
+2023-06-21 18:31:40 INFO  EmployeeController:87 - Entring in saveEmployee() of EmployeeController
+2023-06-21 18:31:56 INFO  EmployeeController:95 - Existing from saveEmployee() of EmployeeController
+2023-06-21 19:13:09 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:13:09 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-21 19:13:11 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-21 19:13:27 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:13:27 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-21 19:13:28 INFO  EmployeeController:111 - Existing from deleteEmployee() of EmployeeController
+2023-06-21 19:15:05 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:15:05 INFO  EmployeeController:130 - Entring in updateEmployee() of EmployeeController
+2023-06-21 19:15:07 INFO  EmployeeController:134 - Existing from updateEmployee() of EmployeeController
+2023-06-21 19:15:30 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:15:30 INFO  EmployeeController:130 - Entring in updateEmployee() of EmployeeController
+2023-06-21 19:15:32 INFO  EmployeeController:134 - Existing from updateEmployee() of EmployeeController
+2023-06-21 19:16:22 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:16:22 INFO  EmployeeController:87 - Entring in saveEmployee() of EmployeeController
+2023-06-21 19:16:22 INFO  EmployeeController:95 - Existing from saveEmployee() of EmployeeController
+2023-06-21 19:16:29 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:16:29 INFO  EmployeeController:87 - Entring in saveEmployee() of EmployeeController
+2023-06-21 19:16:31 INFO  EmployeeController:92 - Existing from saveEmployee() of EmployeeController
+2023-06-21 19:17:09 INFO  AuthFilter:37 - Token is valid
+2023-06-21 19:17:09 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 11:38:03 INFO  AuthFilter:37 - Token is valid
+2023-06-26 11:38:03 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 11:38:04 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 11:38:35 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 11:39:30 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 11:39:41 INFO  AuthFilter:37 - Token is valid
+2023-06-26 11:39:41 INFO  EmployeeController:130 - Entring in updateEmployee() of EmployeeController
+2023-06-26 11:39:50 INFO  EmployeeController:134 - Existing from updateEmployee() of EmployeeController
+2023-06-26 11:43:20 INFO  AuthFilter:37 - Token is valid
+2023-06-26 11:43:20 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 11:43:21 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 12:01:53 INFO  AuthFilter:37 - Token is valid
+2023-06-26 12:01:53 INFO  EmployeeController:130 - Entring in updateEmployee() of EmployeeController
+2023-06-26 12:01:54 INFO  EmployeeController:134 - Existing from updateEmployee() of EmployeeController
+2023-06-26 12:09:03 INFO  AuthFilter:37 - Token is valid
+2023-06-26 12:09:56 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 12:10:21 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:08:25 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:08:25 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:08:26 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:24:28 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:24:28 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:24:30 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:25:07 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:25:13 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:33:03 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:33:05 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:33:45 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:34:55 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:35:00 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 14:35:30 INFO  EmployeeController:111 - Existing from deleteEmployee() of EmployeeController
+2023-06-26 14:36:47 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:36:51 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:36:52 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:37:17 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:37:17 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 14:37:19 INFO  EmployeeController:111 - Existing from deleteEmployee() of EmployeeController
+2023-06-26 14:37:23 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:37:23 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:37:24 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:51:14 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:51:14 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 14:51:14 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 14:51:35 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:51:35 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 14:51:35 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 14:51:56 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:51:56 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 14:52:37 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 14:53:07 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:53:07 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 14:53:20 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 14:54:54 INFO  AuthFilter:37 - Token is valid
+2023-06-26 14:54:54 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 14:55:01 INFO  EmployeeController:74 - Existing from getemployee() of EmployeeController
+2023-06-26 15:01:36 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:01:36 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 15:01:37 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 15:01:43 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:01:43 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:01:44 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 15:03:19 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:03:19 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:03:20 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 15:04:50 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:04:50 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:04:51 INFO  EmployeeController:74 - Existing from getemployee() of EmployeeController
+2023-06-26 15:05:21 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 15:05:39 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:05:39 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:05:40 INFO  EmployeeController:111 - Existing from deleteEmployee() of EmployeeController
+2023-06-26 15:05:48 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:05:48 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 15:05:48 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 15:05:57 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:05:57 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:07:52 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:07:52 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:08:01 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:08:01 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:08:02 INFO  EmployeeController:74 - Existing from getemployee() of EmployeeController
+2023-06-26 15:10:52 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:10:52 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 15:10:52 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 15:11:03 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:11:03 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:11:03 INFO  EmployeeController:74 - Existing from getemployee() of EmployeeController
+2023-06-26 15:11:11 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:11:11 INFO  EmployeeController:106 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:11:13 INFO  EmployeeController:111 - Existing from deleteEmployee() of EmployeeController
+2023-06-26 15:11:16 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:11:16 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:11:21 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:11:21 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 15:11:22 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 15:16:54 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:16:54 INFO  EmployeeController:105 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:17:02 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:17:02 INFO  EmployeeController:105 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:17:09 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:17:09 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:17:12 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:17:12 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-26 15:17:12 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-26 15:17:20 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:17:20 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:17:21 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-26 15:17:39 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:17:42 INFO  EmployeeController:105 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:18:22 INFO  EmployeeController:109 - Existing from deleteEmployee() of EmployeeController
+2023-06-26 15:18:32 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:18:36 INFO  EmployeeController:105 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:18:57 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:18:57 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-26 15:21:29 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:21:29 INFO  EmployeeController:105 - Entring in deleteEmployee() of EmployeeController
+2023-06-26 15:23:45 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:23:45 INFO  DepartmentController:63 - Entring in getDepartments() of DepartmentController
+2023-06-26 15:23:46 INFO  DepartmentController:68 - Existing from getDepartments() of DepartmentController
+2023-06-26 15:24:05 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 15:24:21 INFO  AuthFilter:40 - Token is not valid
+2023-06-26 15:24:41 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:24:45 INFO  EmployeeController:86 - Entring in saveEmployee() of EmployeeController
+2023-06-26 15:25:46 INFO  EmployeeController:91 - Existing from saveEmployee() of EmployeeController
+2023-06-26 15:27:55 INFO  AuthFilter:37 - Token is valid
+2023-06-26 15:27:57 INFO  EmployeeController:86 - Entring in saveEmployee() of EmployeeController
+2023-06-26 15:28:06 INFO  EmployeeController:94 - Existing from saveEmployee() of EmployeeController
+2023-06-27 12:49:16 INFO  AuthFilter:41 - Token is valid
+2023-06-27 12:49:16 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-27 12:49:41 INFO  AuthFilter:41 - Token is valid
+2023-06-27 12:49:41 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-27 12:49:41 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-27 12:49:56 INFO  AuthFilter:41 - Token is valid
+2023-06-27 12:49:56 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-27 12:49:56 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-27 12:50:04 INFO  AuthFilter:41 - Token is valid
+2023-06-27 12:50:04 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-27 12:50:12 INFO  AuthFilter:44 - Token is not valid
+2023-06-28 17:03:56 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:03:56 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 17:04:23 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-28 17:04:24 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:04:24 INFO  EmployeeController:52 - Entring in getEmployees() of EmployeeController
+2023-06-28 17:04:25 INFO  EmployeeController:57 - Existing from getEmployees() of EmployeeController
+2023-06-28 17:06:02 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:06:02 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 17:06:02 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-28 17:06:15 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:06:15 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 17:57:13 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:57:13 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 17:57:50 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:57:50 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 17:57:51 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-28 17:58:37 INFO  AuthFilter:41 - Token is valid
+2023-06-28 17:58:37 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:00:57 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:00:57 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:02:32 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:02:32 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:04:32 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:04:32 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:05:06 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:05:06 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:06:45 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:06:45 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:19:17 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:19:17 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:30:56 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:30:56 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:38:15 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:38:15 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:38:34 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:38:34 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:38:34 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-28 18:47:42 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:47:42 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:47:42 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-28 18:47:47 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:47:47 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:51:33 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:51:33 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:52:17 INFO  AuthFilter:41 - Token is valid
+2023-06-28 18:52:17 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-28 18:52:18 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-29 12:00:31 INFO  AuthFilter:41 - Token is valid
+2023-06-29 12:00:32 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-29 12:00:36 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-29 12:01:48 INFO  AuthFilter:41 - Token is valid
+2023-06-29 12:01:48 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-29 12:01:48 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-29 12:04:03 INFO  AuthFilter:41 - Token is valid
+2023-06-29 12:04:03 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-29 12:04:04 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-29 12:04:49 INFO  AuthFilter:41 - Token is valid
+2023-06-29 12:04:49 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-29 12:04:49 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController
+2023-06-29 12:04:51 INFO  AuthFilter:41 - Token is valid
+2023-06-29 12:04:51 INFO  EmployeeController:68 - Entring in getemployee() of EmployeeController
+2023-06-29 12:04:52 INFO  EmployeeController:73 - Existing from getemployee() of EmployeeController

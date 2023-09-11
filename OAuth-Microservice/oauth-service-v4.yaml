@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: oauth-microservice
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: oauth-microservice
+  template:
+    metadata:
+      labels:
+        app: oauth-microservice
+    spec:
+      containers:
+        - name: oauth-microservice
+          image: sriharipriya/oauth-repo:latest
+          ports:
+            - containerPort: 8083
+          env:
+            - name: TITLE
+              value: "Welcome to OAuth Service Home Page"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: oauth-microservice
+spec:
+  type: ClusterIP
+  ports:
+    - port: 8083
+  selector:
+    app: oauth-microservice
